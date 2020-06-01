@@ -40,7 +40,7 @@ public class RockPaperScissors {
 
 	public String play() {
 
-		computer();
+//		computer();
 
 		String sentence = pickedUser + " " + pickPC;
 
